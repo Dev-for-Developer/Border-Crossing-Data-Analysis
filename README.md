@@ -10,4 +10,4 @@ This project focuses on an in-depth analysis of U.S. border traffic data using P
 
 5.	Geospatial Visualization – Mapping traffic data using Geo Pandas, resolving common CRS and plotting issues.
 
-This end-to-end data analysis project not only strengthens technical skills in data manipulation, visualization, and geospatial analysis but also provides real-world insights into cross-border movement patterns that can be valuable for planners, policymakers, and researchers
+This end-to-end data analysis project not only strengthens technical skills in data manipulation, visualization, and geospatial analysis but also provides real-world insights into cross-border movement patterns that can be valuable for planners, policymakers, and researcher
